@@ -2,7 +2,7 @@
 
 This repository contains practical works ("Travaux Pratiques" in french) I completed (with another student) as part of my master's course in deep learning for visual understanding (https://cord.isir.upmc.fr/teaching-rdfia/).
 
-You can take a look at the reports we wrote [here](#https://github.com/pictoune/RDFIA/blob/main/all_reports.pdf).
+You can take a look at the reports we wrote by clicking to this link: https://github.com/pictoune/RDFIA/blob/main/all_reports.pdf.
 
 ## Table of Contents
 
