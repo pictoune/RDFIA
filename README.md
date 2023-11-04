@@ -1,6 +1,6 @@
-# RDFIA: Recognition and Description of Forms in Artificial Intelligence
+# RDFIA: Reconnaissance Des Formes par Intelligence Artificielle (Recognition and Description of Patterns with Artificial Intelligence)
 
-This repository contains practical works I completed (with another student) as part of my master's course in deep learning for visual understanding (https://cord.isir.upmc.fr/teaching-rdfia/).
+This repository contains practical works ("Travaux Pratiques" in french) I completed (with another student) as part of my master's course in deep learning for visual understanding (https://cord.isir.upmc.fr/teaching-rdfia/).
 
 ## Table of Contents
 
