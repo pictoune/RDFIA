@@ -1,6 +1,6 @@
 # RDFIA: Recognition and Description of Forms in Artificial Intelligence
 
-This repository contains practical exercises and notebooks related to the Recognition and Description of Forms in Artificial Intelligence (RDFIA) course.
+This repository contains practical works I completed (with another student) as part of my master's course in deep learning for visual understanding (https://cord.isir.upmc.fr/teaching-rdfia/).
 
 ## Table of Contents
 
