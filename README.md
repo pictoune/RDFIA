@@ -2,13 +2,14 @@
 
 This repository contains practical works ("Travaux Pratiques" in french) I completed (with another student) as part of my master's course in deep learning for visual understanding (https://cord.isir.upmc.fr/teaching-rdfia/).
 
+You can take a look at the reports we wrote [here](#https://github.com/pictoune/RDFIA/blob/main/all_reports.pdf).
+
 ## Table of Contents
 
 - [Code of the TP 1: SIFT & Bag of Words](#tp-1-sift--bag-of-words)
 - [Code of the TP 2: Transfer Learning & Visualization](#tp-2-transfer-learning--visualization)
 - [Code of the TP 3: Transfer Learning & Neural Networks Visualization](#tp-3-transfer-learning--neural-networks-visualization)
 - [Code of the TP 4: Bayesian Linear Regression & Approximate Inference](#tp-4-bayesian-linear-regression--approximate-inference)
-- [The reports of every TPs](https://github.com/pictoune/RDFIA/blob/main/all_reports.pdf)
 
 ## TP 1: SIFT & Bag of Words
 
