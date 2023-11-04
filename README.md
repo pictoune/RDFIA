@@ -8,7 +8,7 @@ This repository contains practical works ("Travaux Pratiques" in french) I compl
 - [Code of the TP 2: Transfer Learning & Visualization](#tp-2-transfer-learning--visualization)
 - [Code of the TP 3: Transfer Learning & Neural Networks Visualization](#tp-3-transfer-learning--neural-networks-visualization)
 - [Code of the TP 4: Bayesian Linear Regression & Approximate Inference](#tp-4-bayesian-linear-regression--approximate-inference)
-- [The reports of every TP](https://github.com/pictoune/RDFIA/blob/main/all_reports.pdf)
+- [The reports of every TPs](https://github.com/pictoune/RDFIA/blob/main/all_reports.pdf)
 
 ## TP 1: SIFT & Bag of Words
 
