@@ -30,7 +30,7 @@ This repository contains practical works ("Travaux Pratiques" in french) I compl
 
 - [Code of the TP on Bayesian Linear Regression](TP_4/4_a_Bayesian_Linear_Regression.ipynb)
 - [Code of the TP on Approximate Inference](TP_4/4_b_Approximate_Inference.ipynb)
-- [Uncertainty Applications](TP_4/4_c_Uncertainty_Applications.ipynb)
+- [Code of the TP on Uncertainty Applications](TP_4/4_c_Uncertainty_Applications.ipynb)
 
 ## License
 
