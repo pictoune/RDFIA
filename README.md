@@ -11,7 +11,7 @@ You can take a look at the reports we wrote by clicking to this link: https://gi
 - [Code of the TP 3: Transfer Learning & Neural Networks Visualization](#tp-3-transfer-learning--neural-networks-visualization)
 - [Code of the TP 4: Bayesian Linear Regression & Approximate Inference](#tp-4-bayesian-linear-regression--approximate-inference)
 
-## [TP 1: SIFT & Bag of Words]
+## TP 1: SIFT & Bag of Words
 
 - [Code of the TP on SIFT & Bag of Words](TP_1/1_ab_Sift_&_Bow.ipynb)
 - [Code of the TP on Support Vector Machines (SVM)](TP_1/1_c_SVM.ipynb)
