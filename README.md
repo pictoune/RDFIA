@@ -6,33 +6,31 @@ You can take a look at the reports we wrote by clicking to this link: https://gi
 
 ## Table of Contents
 
-- [Code of the PW n°1: SIFT & Bag of Words](#pw-1-sift--bag-of-words)
-- [Code of the PW n°2: Transfer Learning & Visualization](#pw-2-transfer-learning--visualization)
-- [Code of the PW n°3: Transfer Learning & Neural Networks Visualization](#pw-3-transfer-learning--neural-networks-visualization)
-- [Code of the PW n°4: Bayesian Linear Regression & Approximate Inference](#pw-4-bayesian-linear-regression--approximate-inference)
+- [PW 1: SIFT & BOW, SVM](#pw-1-sift--bow-svm)
+- [PW 2: Transfer Learning & Visualization, Domain Adaptation & GAN](#pw-2-transfer-learning--visualization-domain-adaptation--gan)
+- [PW 3: Advanced Topics in Transfer Learning and GANs](#pw-3-advanced-topics-in-transfer-learning-and-gans)
+- [PW 4: Bayesian Methods and Uncertainty in Deep Learning](#pw-4-bayesian-methods-and-uncertainty-in-deep-learning)
 
-## PW 1: SIFT & Bag of Words
+## PW 1: SIFT & BOW, SVM
+This section contains Python code (Jupyter notebook) for image processing with SIFT & BOW and SVM techniques, along with instructions and a report presenting the results.
+- **Code & instructions**: [SIFT & BOW](https://github.com/pictoune/RDFIA/blob/main/PW_1/code/1_ab_Sift_&_Bow.ipynb), [SVM](https://github.com/pictoune/RDFIA/blob/main/PW_1/code/1_c_SVM.ipynb)
+- **Report**: [PDF](https://github.com/pictoune/RDFIA/blob/main/PW_1/report_PW_1.pdf)
 
-- [Code of the PW on SIFT & Bag of Words](PW_1/1_ab_Sift_&_Bow.ipynb)
-- [Code of the PW on Support Vector Machines (SVM)](PW_1/1_c_SVM.ipynb)
+## PW 2: Transfer Learning & Visualization, Domain Adaptation & GAN
+This section contains Python code (Jupyter notebook) for exploring transfer learning, visualization, domain adaptation, and GANs, along with instructions and a report.
+- **Code**: [Transfer Learning & Visualization](https://github.com/pictoune/RDFIA/blob/main/PW_2/code/2_ab_Transfert_Learning_&_Viz.ipynb), [Domain Adaptation & GAN](https://github.com/pictoune/RDFIA/blob/main/PW_2/code/2_cd_Domain_Adapt_&_GAN.ipynb)
+- **Instructions**: [Transfer Learning & Visualization](https://github.com/pictoune/RDFIA/blob/main/PW_2/instructions_PW_2_ab.pdf), [Domain Adaptation & GAN](https://github.com/pictoune/RDFIA/blob/main/PW_2/instructions_PW_2_cd.pdf)
+- **Report**: [PDF](https://github.com/pictoune/RDFIA/blob/main/PW_2/report_PW_2.pdf)
 
-## PW 2: Transfer Learning & Visualization
+## PW 3: Advanced Topics in Transfer Learning and GANs
+This section contains Python code (Jupyter notebook) for advanced topics in transfer learning and GANs, along with instructions and a report presenting the results.
+- **Code & instructions**: [Transfer Learning](https://github.com/pictoune/RDFIA/blob/main/PW_3/code/3_a_Transfer_Learning.ipynb), [Visualizing Neural Networks](https://github.com/pictoune/RDFIA/blob/main/PW_3/code/3_b_Visualizing_Neural_Networks.ipynb), [Domain Adaptation](https://github.com/pictoune/RDFIA/blob/main/PW_3/code/3_c_Domain_Adaptation.ipynb), [GANs](https://github.com/pictoune/RDFIA/blob/main/PW_3/code/3_d_GANs.ipynb)
+- **Report**: [PDF](https://github.com/pictoune/RDFIA/blob/main/PW_3/report_PW_3.pdf)
 
-- [Code of the PW on Transfer Learning & Visualization](PW_2/2_ab_Transfert_Learning_&_Viz.ipynb)
-- [Code of the PW on Domain Adaptation & Generative Adversarial Networks (GAN)](PW_2/2_cd_Domain_Adapt_&_GAN.ipynb)
-
-## PW 3: Transfer Learning & Neural Networks Visualization
-
-- [Code of the PW on Transfer Learning](PW_3/3_a_Transfer_Learning.ipynb)
-- [Code of the PW on Visualizing Neural Networks](PW_3/3_b_Visualizing_Neural_Networks.ipynb)
-- [Code of the PW on Domain Adaptation](PW_3/3_c_Domain_Adaptation.ipynb)
-- [Code of the PW on Generative Adversarial Networks (GANs)](PW_3/3_d_GANs.ipynb)
-
-## PW 4: Bayesian Linear Regression & Approximate Inference
-
-- [Code of the PW on Bayesian Linear Regression](PW_4/4_a_Bayesian_Linear_Regression.ipynb)
-- [Code of the PW on Approximate Inference](PW_4/4_b_Approximate_Inference.ipynb)
-- [Code of the PW on Uncertainty Applications](PW_4/4_c_Uncertainty_Applications.ipynb)
+## PW 4: Bayesian Methods and Uncertainty in Deep Learning
+This section contains Python code (Jupyter notebook) for Bayesian methods and uncertainty in deep learning, along with instructions and a report presenting the results.
+- **Code & instructions**: [Bayesian Linear Regression](https://github.com/pictoune/RDFIA/blob/main/PW_4/code/4_a_Bayesian_Linear_Regression.ipynb), [Approximate Inference](https://github.com/pictoune/RDFIA/blob/main/PW_4/code/4_b_Approximate_Inference.ipynb), [Uncertainty Applications](https://github.com/pictoune/RDFIA/blob/main/PW_4/4_c_Uncertainty_Applications.ipynb)
+- **Report**: [PDF](https://github.com/pictoune/RDFIA/blob/main/PW_4/report_PW_4.pdf)
 
 ## License
 
