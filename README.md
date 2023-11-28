@@ -28,7 +28,7 @@ This section contains Python code (Jupyter notebook) for advanced topics in tran
 
 ## PW 4: Bayesian Methods and Uncertainty in Deep Learning
 This section contains Python code (Jupyter notebook) for Bayesian methods and uncertainty in deep learning, and a report presenting the results.
-- **Code**: [Bayesian Linear Regression](https://github.com/pictoune/RDFIA/blob/main/PW_4/code/4_a_Bayesian_Linear_Regression.ipynb), [Approximate Inference](https://github.com/pictoune/RDFIA/blob/main/PW_4/code/4_b_Approximate_Inference.ipynb), [Uncertainty Applications](https://github.com/pictoune/RDFIA/blob/main/PW_4/4_c_Uncertainty_Applications.ipynb)
+- **Code**: [Bayesian Linear Regression](https://github.com/pictoune/RDFIA/blob/main/PW_4/code/4_a_Bayesian_Linear_Regression.ipynb), [Approximate Inference](https://github.com/pictoune/RDFIA/blob/main/PW_4/code/4_b_Approximate_Inference.ipynb), [Uncertainty Applications](https://github.com/pictoune/RDFIA/blob/main/PW_4/code/4_c_Uncertainty_Applications.ipynb)
 - **Report**: [PDF](https://github.com/pictoune/RDFIA/blob/main/PW_4/report_PW_4.pdf)
 
 ## License
