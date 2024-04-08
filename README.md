@@ -1,6 +1,6 @@
 # RDFIA: Reconnaissance Des Formes par Intelligence Artificielle (Recognition and Description of Patterns with Artificial Intelligence)
 
-This repository contains practical works (PW) I completed (with Nathan Galmiche) as part of my master's course in deep learning for visual understanding (https://cord.isir.upmc.fr/teaching-rdfia/).
+This repository contains practical works (PW) I completed (with Nathan Galmiche) as part of my Master's course in deep learning for visual understanding (https://cord.isir.upmc.fr/teaching-rdfia/).
 
 You can take a look at the reports we wrote by clicking to this link: https://github.com/pictoune/RDFIA/blob/main/all_reports.pdf.
 
